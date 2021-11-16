@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c3305402-193b-31fd-84e9-67870aea8a64",
+      "f8110102-9132-ab2c-850c-92ab9f09b376"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Strategic Management I",
+  "course_description": "This course focuses on some of the important current issues in strategic management. It will concentrate on modern analytical approaches and on enduring successful strategic practices. It is consciously designed with a technological and global outlook since this orientation in many ways highlights the significant emerging trends in strategic management. The course is intended to provide the students with a pragmatic approach that will guide the formulation and implementation of corporate, business, and functional strategies.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.902",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
